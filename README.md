@@ -1,4 +1,4 @@
-# alexa-rise
+# Eco Sounds
 
 2022 RS School Javascript Frontend Developer Stage0
 
