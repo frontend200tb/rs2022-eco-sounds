@@ -1,6 +1,6 @@
 # Eco Sounds
 
-2022 Иван Каширин - Eco Sounds Задание с курса RS School Javascript Frontend
+2022 Иван Каширин - Eco Sounds Задание с курса RS School Javascript Frontend Stage 0
 
 HTML, CSS, JavaScript
 
